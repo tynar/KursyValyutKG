@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Курсы валют Кыргызстана</string>
+    <string name="nacBank">НБКР</string>
+    <string name="demirBank">Демир банк</string>
+    <string name="USD">USD</string>
+    <string name="EUR">EUR</string>
+    <string name="RUB">RUB</string>
+    <string name="KZT">KZT</string>
+    <string name="buy">Покупка</string>
+    <string name="sell">Продажа</string>
+    <string name="RateDate">Курсы валют на: </string>
+    <string name="refresh">Обновить</string>
+
+
+</resources>
